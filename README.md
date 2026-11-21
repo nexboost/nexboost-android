@@ -11,7 +11,25 @@ NEXBOOST is an Android mobile gaming toolbox: GFX Tool, Ping Booster with Cloudf
 - Ping booster with a real WireGuard (Cloudflare WARP) tunnel.
 - PRO mode: one-time purchase, no ads.
 
-## Download / Descarga
+## Download / Descarga (v1.6.0)
+
+Direct files hosted on GitHub:
+
+| File | Description | Direct download |
+|---|---|---|
+| `NEXBOOST-release.apk` | Public release, `com.nexboost.gaming`, v1.6.0 | [Descargar APK](https://github.com/nexboost/nexboost-android/releases/download/v1.6.0/NEXBOOST-release.apk) |
+| `NEXBOOST-debug.apk` | Debug build, `com.nexboost.gaming.debug` | [Descargar debug](https://github.com/nexboost/nexboost-android/releases/download/v1.6.0/NEXBOOST-debug.apk) |
+| `NEXBOOST-release.aab` | Android App Bundle | [Descargar AAB](https://github.com/nexboost/nexboost-android/releases/download/v1.6.0/NEXBOOST-release.aab) |
+
+Release page: https://github.com/nexboost/nexboost-android/releases/tag/v1.6.0
+
+The release APK and AAB are also in this repository root. The PRO unlock build is **private** and is not published here.
+
+SHA-256 (v1.6.0):
+
+- release.apk `EF46D6A9B4659C2E0E60554B70D7CE203CF9D1436DD4609DC72F00928E6A82B5`
+- debug.apk `DF231C81DFC54E040EA3638BFC37CA231F809D986FD9DE0BC335FEA901D887B1`
+- release.aab `7A42D8A805F412D5964FB6A03815E8D11B3A7A95A5A230E3F16BD0DB4B7B3408`
 
 Official site / Sitio oficial: https://nexboost-download.pages.dev
 
@@ -23,4 +41,4 @@ Package / Paquete: `com.nexboost.gaming`
 
 GPL-2.0-or-later. See [LICENSE](LICENSE).
 
-> This repository currently contains the project identity and license. Source code publication is pending.
+> This repository currently contains the public builds and project identity. Full source code publication is pending.
